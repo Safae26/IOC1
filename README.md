@@ -93,6 +93,7 @@ Méthodes d'injection testées :
 ### 4. Spring par XML
 
 ---- config.xml:
+![config](https://github.com/user-attachments/assets/84091b68-3267-4c69-9eba-f6cb107491e7)
 
 
 ## Flux Global
