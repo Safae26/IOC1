@@ -4,19 +4,19 @@ Ce TP avait pour objectif de **maîtriser l'injection de dépendances** avec Spr
 
 ### 🔧 Méthodes d'injection étudiées
 
-1. ⚙️ **Injection manuelle**  
+1. **Injection manuelle**  
    - Configuration explicite dans le code
    - Approche bas niveau
 
-2. 🌀 **Injection dynamique**  
+2. **Injection dynamique**  
    - Résolution à l'exécution
    - Flexibilité accrue
 
-3. 🏷️ **Par annotations**  
+3. **Par annotations**  
    - `@Autowired`, `@Component`, etc.
    - Approche déclarative
 
-4. 📄 **Via XML**  
+4. **Via XML**  
    - Configuration externe
    - Séparation claire code/config
 
