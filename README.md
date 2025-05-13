@@ -40,11 +40,17 @@ L'application simule un calcul métier basé sur des données fournies par un DA
   }
 - Deux implémentations :
   - `DaoImpl` (simule une base de données)
+    
   ![DaoImpl](https://github.com/user-attachments/assets/548eeaf5-59b5-4292-ba40-c3a2a2ee39da)
+
   - `DaoImplV2` (simule la version Web Service)
+    
   ![DaoImplV2](https://github.com/user-attachments/assets/17f67903-7a72-4c9f-a54a-8df96042f5f8)
+
   - `DaoImplVCapteur` (simule les capteurs)
+    
   ![DaoImplVCapteur](https://github.com/user-attachments/assets/6a6554fc-8dbb-4029-a9db-2fddaef0da66)
+  
 
 Chaque implémentation retourne une valeur différente pour démontrer l'injection dynamique.
 
