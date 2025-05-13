@@ -29,6 +29,7 @@ Ce TP avait pour objectif de **maîtriser l'injection de dépendances** avec Spr
 L'application simule un calcul métier basé sur des données fournies par un DAO.
 
 ## Structure du Projet
+![structure](https://github.com/user-attachments/assets/81f0da0d-b419-4bcd-8585-4b5516fe1e23)
 
 ### 🔹 Couche DAO
 **Composants implémentés** :
