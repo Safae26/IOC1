@@ -88,13 +88,16 @@ Méthodes d'injection testées :
 |     | **(PresSpringXML)**              |                                      | • Modifiable sans recompiler                 | • Moins intuitive que les annotations    |
 
 ### 1. Injection Manuelle 
-![image](https://github.com/user-attachments/assets/9e6b1e72-3989-46fa-a058-b151b7146ba0)
+<img width="926" alt="attr" src="https://github.com/user-attachments/assets/f7269321-15ae-48a2-bb2b-a26869701505" />
 
-### 2. Injection Dynamique
+### 2. Injection Dynamique (Pres2 et Pres3)
+<img width="1018" alt="dyn" src="https://github.com/user-attachments/assets/5faab0a4-a080-484e-8160-e86ea563cff0" />
+<img width="698" alt="image" src="https://github.com/user-attachments/assets/d5148309-7689-421c-ba42-3425bc02783a" />
+
+
 
 ### 3. Spring par Annotations
 ![image](https://github.com/user-attachments/assets/974761c4-c161-4f22-98b6-021461c8c637)
-
 
 ### 4. Spring par XML
 ![image](https://github.com/user-attachments/assets/d9a3231b-6647-478d-9839-d74e7e3cd305)
