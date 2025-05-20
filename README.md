@@ -98,9 +98,12 @@ Méthodes d'injection testées :
 
 ### 3. Spring par Annotations
 ![image](https://github.com/user-attachments/assets/974761c4-c161-4f22-98b6-021461c8c637)
+<img width="531" alt="image" src="https://github.com/user-attachments/assets/0cd554a9-ccee-4a17-87b6-048e9b924dee" />
+
 
 ### 4. Spring par XML
 ![image](https://github.com/user-attachments/assets/d9a3231b-6647-478d-9839-d74e7e3cd305)
+<img width="524" alt="xml" src="https://github.com/user-attachments/assets/81033747-082f-4a5c-baa1-8acdbd261245" />
 
 
 ---- config.xml:
