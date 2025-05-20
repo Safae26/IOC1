@@ -90,10 +90,11 @@ Méthodes d'injection testées :
 ### 1. Injection Manuelle 
 <img width="926" alt="attr" src="https://github.com/user-attachments/assets/f7269321-15ae-48a2-bb2b-a26869701505" />
 
-### 2. Injection Dynamique (Pres2 et Pres3)
+### 2. Injection Dynamique 
+- Pres2
+  
 <img width="1018" alt="dyn" src="https://github.com/user-attachments/assets/5faab0a4-a080-484e-8160-e86ea563cff0" />
 <img width="698" alt="image" src="https://github.com/user-attachments/assets/d5148309-7689-421c-ba42-3425bc02783a" />
-
 
 
 ### 3. Spring par Annotations
