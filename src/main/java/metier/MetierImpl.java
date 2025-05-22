@@ -19,7 +19,6 @@ public class MetierImpl implements IMetier{
     private IDao dao; // Couplage faible : dépend des interfaces et pas des implémentations.
 
     // Pas besoin de autowired : Injection via le construteur : méthode la plus optimisée
-    public MetierImpl(@Qualifier("vc") IDao dao) {
         this.dao = dao;
     }
 

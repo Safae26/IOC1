@@ -31,6 +31,32 @@ L'application simule un calcul métier basé sur des données fournies par un DA
 ## Structure du Projet
 ![structure](https://github.com/user-attachments/assets/81f0da0d-b419-4bcd-8585-4b5516fe1e23)
 
+## Dépendances à installer avec Maven :
+```
+<dependencies>
+        <!-- https://mvnrepository.com/artifact/org.springframework/spring-core -->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-core</artifactId>
+            <version>5.3.39</version>
+        </dependency>
+
+        <!-- https://mvnrepository.com/artifact/org.springframework/spring-context -->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-context</artifactId>
+            <version>5.3.39</version>
+        </dependency>
+
+        <!-- https://mvnrepository.com/artifact/org.springframework/spring-beans -->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-beans</artifactId>
+            <version>5.3.39</version>
+        </dependency>
+    </dependencies>
+```
+
 ### 🔹 Couche DAO
 **Composants implémentés** :
 - Interface `IDao`  
@@ -88,16 +114,24 @@ Méthodes d'injection testées :
 |     | **(PresSpringXML)**              |                                      | • Modifiable sans recompiler                 | • Moins intuitive que les annotations    |
 
 ### 1. Injection Manuelle 
-![image](https://github.com/user-attachments/assets/9e6b1e72-3989-46fa-a058-b151b7146ba0)
+<img width="926" alt="attr" src="https://github.com/user-attachments/assets/f7269321-15ae-48a2-bb2b-a26869701505" />
 
-### 2. Injection Dynamique
+### 2. Injection Dynamique 
+
+- Pres2
+<img width="1018" alt="dyn" src="https://github.com/user-attachments/assets/5faab0a4-a080-484e-8160-e86ea563cff0" />
+<img width="698" alt="image" src="https://github.com/user-attachments/assets/d5148309-7689-421c-ba42-3425bc02783a" />
+
+
 
 ### 3. Spring par Annotations
 ![image](https://github.com/user-attachments/assets/974761c4-c161-4f22-98b6-021461c8c637)
+<img width="531" alt="image" src="https://github.com/user-attachments/assets/0cd554a9-ccee-4a17-87b6-048e9b924dee" />
 
 
 ### 4. Spring par XML
 ![image](https://github.com/user-attachments/assets/d9a3231b-6647-478d-9839-d74e7e3cd305)
+<img width="524" alt="xml" src="https://github.com/user-attachments/assets/81033747-082f-4a5c-baa1-8acdbd261245" />
 
 
 ---- config.xml:
